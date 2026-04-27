@@ -1,3 +1,4 @@
+output/
 downloads/
 __pycache__/
 *.pyc

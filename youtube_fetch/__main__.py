@@ -1,4 +1,4 @@
-from video_downloader.cli import main
+from youtube_fetch.cli import main
 
 if __name__ == "__main__":
     main()
